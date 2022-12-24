@@ -7,4 +7,4 @@ REPORT ZTEST.
 
 WRITE : / 'HELLO WORLD'.
 WRITE : / '대단히 반갑습니다.'.
-WRITE : / '취직하고싶습니다.'.
+WRITE : / 'SAP POSSIBLE.'.
